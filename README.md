@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ShenPaul
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in machine learning
 
 
@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen-po-heng)](https://github.com/Shen-po-heng/)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen-po-heng)](https://github.com/Shen-po-heng)
