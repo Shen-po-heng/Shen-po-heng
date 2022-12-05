@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ShenPaul
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in machine learning
 
 
