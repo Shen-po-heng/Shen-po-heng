@@ -9,5 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shen-po-heng&theme=react&line_height=40&hide=css"/> </a>
+![Po-Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen-po-heng&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-po-heng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
