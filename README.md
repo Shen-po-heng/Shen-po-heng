@@ -1,14 +1,11 @@
-- 👋 Hi, I’m Paul
-- 👀 I’m interested in machine learning
+# 👋 Hi there, I’m Po-Heng
+***
+- 🖥️ I've been coding in C/C++ for 2+ years and python primarily for 4+ years
+- 👀 I’m interested in software developments
+- 👨🏻‍🎓 I'm a bit pissed off about too official writing, but I like to research until the truth becomes clear
+- 🌱 I’m currently taking course of DevOp of IBM, and learning flutter and node.js for personal interest to build an App
+- 💞️ I’m a loyal person, but I am kind of jerk to date multiple programming languages at the same time according to jobs.
+- 📫 You can reach me from my mail address or linkedIn 
 
-
-<!---
-Shen-po-heng/Shen-po-heng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-![Po-Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen-po-heng&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-po-heng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
---->
 
 
