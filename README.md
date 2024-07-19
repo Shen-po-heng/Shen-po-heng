@@ -1,5 +1,4 @@
 # 👋 Hi there, I’m Po-Heng
-***
 - 🖥️ I've been coding in C/C++ for 2+ years and python primarily for 4+ years
 - 👀 I’m interested in software developments
 - 👨🏻‍🎓 I'm a bit pissed off about too official writing, but I like to research until the truth becomes clear
