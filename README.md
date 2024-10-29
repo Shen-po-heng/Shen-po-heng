@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi there, I’m Po-Heng
 
-<!--
-**Shen-po-heng/Shen-po-heng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Technical Expertise:
+  -- Software Development: 2+ years coding in C/C++, with experience in developing efficient software solutions.
+  -- Machine Learning: 4+ years working with Python, focusing on applying ML algorithms to real-world problems and enhancing system accuracy.
 
-Here are some ideas to get you started:
+- 🌱 Continuous Learning: Currently expanding my knowledge in DevOps through an IBM course, always open to new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Professional Insight: Passionate about creating impactful solutions and committed to thorough research and collaboration to achieve clarity in complex projects.
+
+If you enjoy my projects, feel free to star them and follow me to stay updated on my latest creations!
+
+📫 feel free to connect [LinkedIn](https://www.linkedin.com/in/pohengshen/)!
