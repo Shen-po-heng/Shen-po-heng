@@ -1,7 +1,9 @@
 ## 👋 Hi there, I’m Po-Heng
 
 - 🖥️ Technical Expertise:
+
   -- Software Development: 2+ years coding in C/C++, with experience in developing efficient software solutions.
+  
   -- Machine Learning: 4+ years working with Python, focusing on applying ML algorithms to real-world problems and enhancing system accuracy.
 
 - 🌱 Continuous Learning: Currently expanding my knowledge in DevOps through an IBM course, always open to new technologies.
