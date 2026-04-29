@@ -1,14 +1,29 @@
-## 👋 Hi there, I’m Po-Heng
-I'm a software engineer focusing on GNSS positioning algorithms, AI systems, and signal processing.
-With a Master's degree in Electrical Communication Engineering, I work at the intersection of algorithm design, software implementation, and intelligent system development.
+# 👋 Hi there, I’m Po-Heng
 
-🛰️ GNSS & Signal Processing — exploring satellite navigation, and positioning accuracy improvement.
+I’m an AI Software Engineer specializing in building production-ready LLM systems, focusing on bridging AI research and real-world applications.
 
-🤖 AI & Machine Learning — developing AI-powered applications, backend APIs, and model tuning workflows using Python and C/C++.
+My work centers on designing and developing end-to-end AI systems, including AI agents, GraphRAG pipelines, and evaluation infrastructure to ensure reliability, scalability, and consistent system behavior.
 
-💻 Software Engineering — experienced in scalable system design, cloud integration, and backend infrastructure.
+I enjoy building systems that connect theory and practice — turning AI models into reliable, production-ready solutions.
 
-I'm passionate about bridging research and real-world applications, creating systems that combine precision, intelligence, and reliability.
+My goal is to design intelligent systems that are not only powerful, but also stable, scalable, and usable in real-world environments.
 
-If you enjoy my projects, feel free to star them and follow me to stay updated on my latest creations!
-📫 feel free to connect [LinkedIn](https://www.linkedin.com/in/pohengshen/)!
+## 🚀 What I Do
+
+🧠 **AI Systems & LLM Engineering**  
+- Building LLM-based systems (RAG, GraphRAG, AI agents)  
+- Prompt orchestration, context engineering, and memory systems  
+- Designing evaluation pipelines (LLM-as-a-judge, regression testing)  
+
+⚙️ **System & Backend Engineering**  
+- API and webhook architecture for AI systems  
+- Performance optimization (10× improvements in latency & evaluation)  
+- Scalable system design and production deployment  
+
+🌍 **Real-World Systems & GNSS**  
+- Background in GNSS and positioning systems  
+- Interested in integrating AI with edge and real-world environments  
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/pohengshen/  
