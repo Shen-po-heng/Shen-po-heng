@@ -17,11 +17,7 @@ AI Software Engineer building reliable and scalable production AI systems that b
 - Edge AI
 - Robotics
 - GNSS & Localization
-
-## Connect
-
-- LinkedIn: www.linkedin.com/in/pohengshen
-- Portfolio: shen-po-heng.github.io
+  
 # 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/pohengshen/
