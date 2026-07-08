@@ -1,29 +1,89 @@
-# 👋 Hi there, I’m Po-Heng
+# 👋 Hi there, I'm Po-Heng
 
-I’m an AI Software Engineer specializing in building production-ready LLM systems, focusing on bridging AI research and real-world applications.
+I'm an AI Software Engineer specializing in building **reliable and scalable production AI systems** that bridge AI research and real-world enterprise applications.
 
-My work centers on designing and developing end-to-end AI systems, including AI agents, GraphRAG pipelines, and evaluation infrastructure to ensure reliability, scalability, and consistent system behavior.
+My work focuses on designing, developing, and deploying end-to-end AI solutions, including LLM platforms, AI evaluation infrastructure, backend architecture, and knowledge retrieval systems. I enjoy transforming AI ideas into production-ready systems that are maintainable, measurable, and reliable.
 
-I enjoy building systems that connect theory and practice — turning AI models into reliable, production-ready solutions.
+My engineering interests include building AI systems that are not only intelligent, but also scalable, observable, and robust enough for real-world deployment.
 
-My goal is to design intelligent systems that are not only powerful, but also stable, scalable, and usable in real-world environments.
+---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
-🧠 **AI Systems & LLM Engineering**  
-- Building LLM-based systems (RAG, GraphRAG, AI agents)  
-- Prompt orchestration, context engineering, and memory systems  
-- Designing evaluation pipelines (LLM-as-a-judge, regression testing)  
+## 🧠 Production AI Systems
 
-⚙️ **System & Backend Engineering**  
-- API and webhook architecture for AI systems  
-- Performance optimization (10× improvements in latency & evaluation)  
-- Scalable system design and production deployment  
+- Design and develop production-grade LLM applications
+- Build enterprise AI platforms and AI agent systems
+- Deploy scalable AI solutions for real-world environments
 
-🌍 **Real-World Systems & GNSS**  
-- Background in GNSS and positioning systems  
-- Interested in integrating AI with edge and real-world environments  
+---
 
-## 📫 Connect
+## 📊 LLM Evaluation & Reliability
 
-- LinkedIn: https://www.linkedin.com/in/pohengshen/  
+- LLM evaluation infrastructure
+- LLM-as-a-Judge
+- Regression testing
+- Golden datasets
+- AI testing pipelines
+- AI system reliability and validation
+
+---
+
+## 🤖 LLM & Agent Engineering
+
+- RAG / GraphRAG
+- AI Agents
+- Prompt Engineering
+- Context Engineering
+- Tool Calling
+- Memory Systems
+
+---
+
+## ⚙️ Backend & System Engineering
+
+- Backend architecture
+- REST APIs
+- FastAPI
+- Webhook architecture
+- PostgreSQL
+- Docker
+- Performance optimization
+- Production deployment
+
+---
+
+## 🏗️ System Design
+
+- AI platform architecture
+- Scalable backend systems
+- Knowledge retrieval systems
+- Enterprise AI deployment
+
+---
+
+## 🌍 Research Background
+
+My academic background is in **Electrical and Communication Engineering**, where I worked on GNSS positioning and AI research. Today, I'm particularly interested in applying AI systems to robotics, edge AI, intelligent infrastructure, and real-world industrial applications.
+
+---
+
+# 💡 Engineering Philosophy
+
+I believe great AI systems are more than accurate models.
+
+They should be:
+
+- Reliable
+- Scalable
+- Observable
+- Maintainable
+- Production-ready
+
+I enjoy solving engineering problems that transform AI prototypes into systems people can confidently use in production.
+
+---
+
+# 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pohengshen/
