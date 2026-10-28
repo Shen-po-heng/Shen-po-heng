@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Po-Heng
 
-I'm an AI Software Engineer building and deploying enterprise LLM applications, with a focus on AI agent workflows, retrieval accuracy, evaluation, and backend engineering.
-
-Currently working on a manufacturing-focused AI platform that connects structured product data, enterprise knowledge, and video retrieval through agent-based workflows.
+AI Software Engineer with hands-on experience building and deploying enterprise LLM applications. Currently leading the development of an AI agent platform for manufacturing use cases, focusing on workflow design, retrieval accuracy, response quality evaluation, latency optimization, and backend integration. Holds an M.Sc. in Electrical Communication Engineering with a background in deep learning research and positioning systems.
 
 ## Technical Skills
 
@@ -26,7 +24,7 @@ Currently working on a manufacturing-focused AI platform that connects structure
 M.Sc. in Electrical Communication Engineering, University of Kassel. My research spans deep learning and smartphone positioning systems.
 
 - **Smartphone Positioning / GNSS (Master's Thesis):** Proposed a correction-vector approach to improve positioning accuracy for vulnerable road users (VRUs) in cooperative collision avoidance scenarios. A smartphone at a known position was used to estimate a local correction vector, which could then be applied to nearby smartphones to reduce shared GNSS positioning errors. The approach improved positioning accuracy by **0.5–1.5 m in stationary** and **0.5–1 m in dynamic** rural measurements, with additional improvements observed in suburban settings.
-- **Deep Learning:** Worked on continual learning for time-series data and VAE-based anomaly detection and reconstruction.
+- **Deep Learning (Graduate Research Assistant):** Evaluated six replay-based continual learning algorithms on two years of time-series data, reducing catastrophic forgetting to below 5% and establishing five evaluation standards. Developed VAE-based anomaly detection for the Digital Twin Solar project, improving F1-score from 0.96 to 1.00 and reducing detection time from 8.2 s to 0.1 s. Built a VAE reconstruction model for 526,000 time-series data points, achieving 96–97% similarity.
 
 ## 📫 Connect with Me
 
